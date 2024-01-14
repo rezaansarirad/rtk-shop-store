@@ -1,6 +1,6 @@
 # ShopStore
 
-A React.js project with SCSS styling, utilizing `useReducer` and `Context` for state management.
+A React.js project with SCSS styling, utilizing `redux` and `reduxt-toolkit` for state management.
 ![Screenshot 2](./public/sticker.gif)
 ## Features
 
