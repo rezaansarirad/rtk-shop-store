@@ -21,7 +21,7 @@ A React.js project with SCSS styling, utilizing `redux` and `reduxt-toolkit` for
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/rezaansarirad/shopStore.git
+    git clone https://github.com/rezaansarirad/rtk-shop-store.git
     ```
 
 2. Install dependencies:
